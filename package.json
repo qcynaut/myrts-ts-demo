@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "myrts-ts": "git+https://qcynaut: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@github.com/qcynaut/myrts-ts#v0.1.2-dev",
+    "myrts-ts": "github:qcynaut/myrts-ts",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
